@@ -7,3 +7,4 @@ print("Yo this will work")
 name = input("Enter your first name")
 print("Hello " + name)
 
+food = input(name + ", please enter your favorite food")
