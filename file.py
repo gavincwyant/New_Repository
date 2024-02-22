@@ -4,7 +4,9 @@ print("this is our third commit")
 print("Yo this will work")
 
 
-name = input("Enter your first name")
+name = input("Enter your first name: ")
 print("Hello " + name)
 
-food = input(name + ", please enter your favorite food")
+food = input(name + ", please enter your favorite food: ")
+
+print(name +  ", " + food + " is my favorite thing to eat too!!")
